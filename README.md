@@ -33,7 +33,7 @@
 
 - **기술 스택:** Spring, MyBatis, Oracle, JSP, Bootstrap 등
 - **주요 기능:** 레시피 CRUD, 이미지 업로드, 좋아요 기능, 댓글/대댓글 기능  
-- <a href="https://github.com/mapadubumaenia/Project" target="_blank">🔗 프로젝트 레포지토리 바로가기</a>
+- - [🔗 프로젝트 레포지토리 바로가기](https://github.com/mapadubumaenia/Project)
 
 
 ---
