@@ -1,7 +1,8 @@
 <div align="center">
   <h2>🌍 Hello World 👋</h2>
-  <p>끊임없이 배우고 성장하는 주니어 웹 개발자 지망생, 손근일입니다.</p>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F4ECE6&height=120&section=header&text=Ru:meet%20%7C%20RecipeCode&fontColor=2E2E2E&fontSize=40&animation=fadeIn&fontAlignY=40" />
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F4ECE6&height=120&section=header&text=Geunil%20Son%20%7C%20Backend%20Developer&fontColor=2E2E2E&fontSize=36&animation=fadeIn" alt="Geunil Son | Backend Developer"/>
+</p>
 </div>
 
 ## 👨‍💻 About Me  
