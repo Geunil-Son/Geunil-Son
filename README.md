@@ -43,13 +43,6 @@
 
 ---
 
-## 📊 GitHub 활동  
-
-![Geunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geunil-Son&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geunil-Son&layout=compact&theme=radical)  
-
----
-
 ## ✨ About Me  
 - 엑셀러레이터 회사에서 약 1년간 근무 경험(엑셀러레이터 실무 업무 전반)  
 - 이탈리아 베네치아에서 1년간 근무 경험 (여행/관광 산업)    
