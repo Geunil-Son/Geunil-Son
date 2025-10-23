@@ -22,7 +22,7 @@
 
 - **역 할:** 팀장, 일정관리, 산출물 관리, 레시피 CRUD
 - **개발 기간:** 2025.07 ~ 2025.07  
-- **기술 스택:** Spring, MyBatis, Oracle, JSP, Bootstrap 등
+- **기술 스택:** 'Spring', 'MyBatis', 'Oracle', 'JSP', 'Bootstrap' 등
 - **주요 기능:** 레시피 CRUD, 이미지 업로드, 좋아요 기능, 댓글/대댓글 기능  
 - - [🔗 프로젝트 레포지토리 바로가기](https://github.com/Geunil-Son/TeamProjet)
 
@@ -31,7 +31,7 @@
 
 - **역 할:** 팀장, 일정관리, 산출물 관리, ERD 설계, 알림, 팔로우, 레시피 신고, 프로필페이지 등
 - **개발 기간:** 2025.09 ~ 2025.10  
-- **기술 스택:**  `Spring Boot`, `Spring Data JPA`, `MapStruct`, `Oracle`, `Elasticsearch`, `Logstash`, `Kibana`, `jQuery`, `Bootstrap`  
+- **기술 스택:**  `Spring Boot`, `Spring Data JPA`, `MapStruct`, `Oracle`, `Elasticsearch`, `Logstash`, `Kibana`, `jQuery`, `Bootstrap` 등
 - **주요 기능:**
   - 🔔 실시간 알림 (댓글, 좋아요, 팔로우, 레시피 신고 이벤트)  
   - ❤️ 좋아요 기반 추천 검색 기능  
@@ -39,6 +39,12 @@
   - 👥 팔로우/팔로잉 네트워크, 마이페이지 통계  
   - 📊 빅데이터 검색엔진 (Elasticsearch + Logstash + Oracle 연동)  
 - - [🔗 프로젝트 레포지토리 바로가기](https://github.com/Geunil-Son/RecipeCode_final)
+- - [🔗 시연영상 바로가기](https://youtu.be/JlFuMDL2crc)
+
+---
+
+![Geunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geunil-Son&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geunil-Son&layout=compact&theme=radical)  
 
 
 ---
