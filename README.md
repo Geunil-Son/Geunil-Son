@@ -76,11 +76,6 @@
 
 ---
 
-![Geunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geunil-Son&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geunil-Son&layout=compact&theme=radical)  
-
-
----
 
 > 🌱 끊임없이 배우며, 오늘보다 나은 코드를 작성하기 위해 성장 중입니다.
 
