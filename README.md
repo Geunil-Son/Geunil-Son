@@ -1,7 +1,7 @@
 <div align="center">
   <h2>🌍 Hello World 👋</h2>
   <p>끊임없이 배우고 성장하는 주니어 풀스택 개발자, 손근일입니다.</p>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F4ECE6&height=120&section=header&text=Lumeat%20%7C%20RecipeCode&fontColor=2E2E2E&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F4ECE6&height=120&section=header&text=Lumeet%20%7C%20RecipeCode&fontColor=2E2E2E&fontSize=40" />
 </div>
 
 ## 👨‍💻 About Me  
