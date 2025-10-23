@@ -1,8 +1,14 @@
-# 안녕하세요, 손근일입니다.  
+<div align="center">
+  <h2>🌍 Hello World 👋</h2>
+  <p>끊임없이 배우고 성장하는 주니어 풀스택 개발자, 손근일입니다.</p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F4ECE6&height=120&section=header&text=Lumeat%20%7C%20RecipeCode&fontColor=2E2E2E&fontSize=40" />
+</div>
 
-💻 주니어 풀스택 개발자 | Java & Spring Boot 기반 웹 개발 학습 중  
-🌱 현재 빅데이터 기반(파이썬,자바,웹) 엘라스틱 검색엔진 개발자 과정 수료   
-🚀 안정적인 코드를 작성하고 협업에 강한 개발자로 성장하고자 합니다.  
+## 👨‍💻 About Me  
+- 🎓 **KB 정보교육원** 빅데이터 기반 웹·엘라스틱 검색엔진 개발자 과정 **수료 (2025.10)**  
+- 💻 **Java & Spring Boot 기반 백엔드 개발자**  
+- 🧭 **Motto:** “기술은 결국 사람을 위한 도구다.”  
+- 📫 **Contact:** sshssh333@gmail.com  
 
 ---
 
