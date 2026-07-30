@@ -27,16 +27,25 @@
 현장 센서가 측정한 데이터를 SCADA로 모아 서버(WAS)에 쌓고, 대시보드로 보여주는 시스템을 구축해 납품했습니다. Docker Compose로 배포했습니다.<br>
 <sub>Spring Boot · JSP · SCADA · Docker</sub>
 
+**센서 기반 원격 관제서버**　구축 중<br>
+현장 게이트웨이가 보내는 센서 데이터를 수신해 시계열로 저장하고, 대시보드로 보여주는 관제서버를 구축하고 있습니다. 수신 모듈, DB 스키마, 서버·네트워크·보안을 맡았습니다.<br>
+<sub>Python · TimescaleDB · Grafana · Docker</sub>
+
+**RAG 챗봇 키트**　개인 프로젝트<br>
+문서를 근거로 어떤 언어로 물어도 그 언어로 답하는 RAG 챗봇을, 페르소나 한 줄과 지식베이스만 갈아 끼우면 어디든 붙는 범용 백엔드 API + 임베드용 SDK로 만들었습니다.<br>
+<sub>Python · FastAPI · Chroma · JS SDK · Docker</sub>
+
 ## Stack
 
 **Frontend**　React · JavaScript · jQuery · JSP · HTML · CSS<br>
-**Backend**　Java · Spring Boot · JPA · MyBatis · Thymeleaf<br>
-**Database**　MySQL · MariaDB<br>
-**Infra**　Docker · Linux · Git · SVN · VMware ESXi
+**Backend**　Java · Spring Boot · JPA · MyBatis · Thymeleaf · Python · FastAPI<br>
+**Database**　MySQL · MariaDB · TimescaleDB<br>
+**Infra**　Docker · Linux · Git · SVN · VMware ESXi · Grafana
 
 ## Currently
 
-RAG 기반 AI 챗봇을 만들어보는 중입니다. 사내 문서를 기반으로 답하는 형태이고, 아직 개발 중이에요.
+교육 사이트 운영·유지보수를 맡고 있습니다.<br>
+지멘스 파트너십으로 로우코드 플랫폼을 학습 중입니다. 래피드마이너 인증을 취득했고, 이어서 다른 제품군도 익히고 있어요.
 
 ## Learning Projects
 
