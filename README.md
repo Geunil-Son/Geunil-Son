@@ -52,7 +52,7 @@
 
 부트캠프에서 진행한 팀 프로젝트입니다.
 
-[**Ru:meet**](https://github.com/Geunil-Son/RecipeCode_final)　SNS형 레시피 공유 플랫폼 (팀장) · 실시간 알림 · 좋아요 추천 · Elasticsearch 검색 · [시연영상](https://youtu.be/JlFuMDL2crc)<br>
+[**Ru:meet**](https://github.com/Geunil-Son/RecipeCode_final)　SNS형 레시피 공유 플랫폼 (팀장) · 실시간 알림 · 좋아요 추천 · Elasticsearch 검색<br>
 <sub>Spring Boot · JPA · Elasticsearch</sub>
 
 [**RecipeCode**](https://github.com/Geunil-Son/TeamProjet)　레시피 공유 플랫폼 (팀장)<br>
