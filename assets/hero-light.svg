@@ -9,5 +9,5 @@
   <text x="640" y="182" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="600" letter-spacing="-2.5" fill="#1d1d1f">Son Geunil</text>
   <text x="640" y="236" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="400" letter-spacing="7" fill="#6e6e73">FULL-STACK DEVELOPER</text>
   <line x1="588" y1="278" x2="692" y2="278" stroke="#d2d2d7" stroke-width="1"/>
-  <text x="640" y="314" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="300" letter-spacing="2" fill="#86868b">Java · Spring Boot · React · Busan</text>
+  <text x="640" y="314" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="300" letter-spacing="2" fill="#86868b">Build · Deploy · Operate</text>
 </svg>
